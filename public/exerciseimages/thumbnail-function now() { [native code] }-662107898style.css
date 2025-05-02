@@ -1,0 +1,31 @@
+#id_1{
+    background-color: rgb(71, 206, 255);
+    height: 200px;
+    padding: 20px;
+    padding-top: 30px;
+    padding-left: 40px;
+    margin: 30px;
+}
+#id_2{
+    background-image: url(https://theki.vn/wp-content/uploads/2019/05/thien-nhien-la-nguoi-ban-tot-cua-con-nguoi-con-nguoi.jpg);
+    height: 720px;
+    padding: 20px;
+    padding-top: 30px;
+    padding-left: 40px;
+    margin: 30px;
+
+}
+    #id_3{
+        background-image: url(https://images.pexels.com/photos/276092/pexels-photo-276092.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+        height: 500px;
+        background-attachment: fixed;
+        /* width: 50%; */
+   }
+   #id_4{
+    background: linear-gradient(90deg, rgb(13, 0, 36) 0%, rgb(196, 164, 115) 53%, rgba(0,212,255,1) 100%);
+    height: 300px;
+}
+#id_5{
+    background-image: radial-gradient(rgb(211, 197, 106), aqua);
+    height: 400px;
+}
