@@ -7,7 +7,7 @@ const bookingSchema = mongoose.Schema({
     expiredate:{type:String, default:null},
     dateofBooking:{type:String, default:null},
     status: {type:String, default:'accept'},
-    // createAt: {type:Date, default:Date.now()},
+    createAt: {type:Date, default:Date.now()},
 });
 
 module.exports = mongoose.model('booking', bookingSchema);
